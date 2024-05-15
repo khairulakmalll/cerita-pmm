@@ -55,7 +55,11 @@ nav a:hover {
 }
 
 .kenangan {
-  width: 50%;
+  width: 100%;
+  padding-bottom: 0.5rem;
+  max-height: 600px;
+  object-fit: cover;
+  object-position: center;
 }
 
 .profile img {
